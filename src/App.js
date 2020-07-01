@@ -52,7 +52,7 @@ class App extends Component {
    
     return (
    
-      <div className='container'>
+      <div className='container wrap'>
       
          <List loading={this.state.loading}/>
       
